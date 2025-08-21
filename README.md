@@ -3,6 +3,9 @@
   <img src="public/Trend-X-BTC_readme.png" alt="Approach Overview" style="width: 100%; height: 100%; object-fit: cover; object-position: top right;" />
 </div>
 
+## Note:⚠️ Current Status:
+The live dashboard is temporarily offline due to API credit limitations. The source code remains available for local setup, and we plan to restore the service soon.
+
 ## Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
